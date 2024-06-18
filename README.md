@@ -16,7 +16,7 @@ This is a quiz application built using HTML, CSS, and JavaScript. It allows user
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/quiz-app.git
+   git clone https://github.com/abin0001/quizapp.git
    ```
 
 2. **Install Dependencies (if any):**
